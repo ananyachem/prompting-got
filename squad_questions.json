@@ -1,0 +1,80 @@
+{
+    "context": "A planetary coordinate system (also referred to as planetographic, planetodetic, or planetocentric) is a generalization of the geographic, geodetic, and the geocentric coordinate systems for planets other than Earth. Similar coordinate systems are defined for other solid celestial bodies, such as in the selenographic coordinates for the Moon. The coordinate systems for almost all of the solid bodies in the Solar System were established by Merton E. Davies of the Rand Corporation, including Mercury, Venus, Mars, the four Galilean moons of Jupiter, and Triton, the largest moon of Neptune. A planetary datum is a generalization of geodetic datums for other planetary bodies, such as the Mars datum; it requires the specification of physical reference points or surfaces with fixed coordinates, such as a specific crater for the reference meridian or the best-fitting equigeopotential as zero-level surface.",
+    "qas": [
+        {
+            "question": "What is a planetary coordinate system?",
+            "answers": [
+                {
+                    "text": "A planetary coordinate system (also referred to as planetographic, planetodetic, or planetocentric) is a generalization of the geographic, geodetic, and the geocentric coordinate systems for planets other than Earth.",
+                    "start_char": 0
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What are other names for a planetary coordinate system?",
+            "answers": [
+                {
+                    "text": "Planetographic, planetodetic, or planetocentric",
+                    "start_char": 51
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is a coordinate system for the Moon called?",
+            "answers": [
+                {
+                    "text": "Selenographic coordinates",
+                    "start_char": 305
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "Who established the coordinate systems for almost all of the solid bodies in the Solar System?",
+            "answers": [
+                {
+                    "text": "Merton E. Davies of the Rand Corporation",
+                    "start_char": 443
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is a planetary datum?",
+            "answers": [
+                {
+                    "text": "A planetary datum is a generalization of geodetic datums for other planetary bodies, such as the Mars datum; it requires the specification of physical reference points or surfaces with fixed coordinates, such as a specific crater for the reference meridian or the best-fitting equigeopotential as zero-level surface.",
+                    "start_char": 594
+                }
+            ],
+            "is_impossible": false
+        },
+        {
+            "question": "What is a celestial body?",
+            "answers": [],
+            "is_impossible": true
+        },
+        {
+            "question": "Where was Merton E. Davies born?",
+            "answers": [],
+            "is_impossible": true
+        },
+        {
+            "question": "What is the coordinate system for Saturn called?",
+            "answers": [],
+            "is_impossible": true
+        },
+        {
+            "question": "What is the largest moon of Jupiter?",
+            "answers": [],
+            "is_impossible": true
+        },
+        {
+            "question": "How many moons does Neptune have?",
+            "answers": [],
+            "is_impossible": true
+        }
+    ]
+}

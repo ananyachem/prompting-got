@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is a planetary coordinate system?",
+        "answer": "A planetary coordinate system (also referred to as planetographic, planetodetic, or planetocentric) is a generalization of the geographic, geodetic, and the geocentric coordinate systems for planets other than Earth."
+    },
+    {
+        "question": "What are other names for a planetary coordinate system?",
+        "answer": "Planetographic, planetodetic, or planetocentric"
+    },
+    {
+        "question": "What is a coordinate system for the Moon called?",
+        "answer": "Selenographic coordinates"
+    },
+    {
+        "question": "Who established the coordinate systems for almost all of the solid bodies in the Solar System?",
+        "answer": "Merton E. Davies of the Rand Corporation"
+    },
+    {
+        "question": "What is a planetary datum?",
+        "answer": "A planetary datum is a generalization of geodetic datums for other planetary bodies, such as the Mars datum; it requires the specification of physical reference points or surfaces with fixed coordinates, such as a specific crater for the reference meridian or the best-fitting equigeopotential as zero-level surface."
+    },
+    {
+        "question": "What is a celestial body?",
+        "answer": "No Answer"
+    },
+    {
+        "question": "Where was Merton E. Davies born?",
+        "answer": "No Answer"
+    },
+    {
+        "question": "What is the coordinate system for Saturn called?",
+        "answer": "No Answer"
+    },
+    {
+        "question": "What is the largest moon of Jupiter?",
+        "answer": "No Answer"
+    },
+    {
+        "question": "How many moons does Neptune have?",
+        "answer": "No Answer"
+    }
+]
